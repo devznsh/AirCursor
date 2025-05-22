@@ -1,0 +1,9 @@
+# Core
+mediapipe
+opencv-python
+pyautogui
+numpy
+
+# Intel oneAPI
+openvino-dev
+intel-openmp # For MKL acceleration
